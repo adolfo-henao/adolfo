@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1, Jasmin TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1, Visit-X TV
+http://stream.visit-x.tv/vxtv/live/playlist.m3u8
+#EXTINF:-1, HBO SIGNATURE
+http://geotvplus.eu:2082/live/Calderon/Calderon/71811.ts
+#EXTINF:-1, HBO PLUS 
+http://geotvplus.eu:2082/live/Calderon/Calderon/71810.ts
+#EXTINF:-1
+http://geotvplus.eu:2082/live/Calderon/Calderon/71814.ts 
+#EXTINF:-1
+http://geotvplus.eu:2082/live/Calderon/Calderon/71815.ts
+#EXTINF:-1
+http://geotvplus.eu:2082/live/Calderon/Calderon/71816.ts 
+#EXTINF:-1
+http://geotvplus.eu:2082/live/Calderon/Calderon/71817.ts
+#EXTINF:-1
+http://geotvplus.eu:2082/live/Calderon/Calderon/71819.ts
+#EXTINF:-1
+http://geotvplus.eu:2082/live/Calderon/Calderon/71823.ts  
+#EXTINF:-1
+http://geotvplus.eu:2082/live/Calderon/Calderon/71828.ts
+#EXTINF:-1
+http://geotvplus.eu:2082/live/Calderon/Calderon/71829.ts
+#EXTINF:-1
+http://geotvplus.eu:2082/live/Calderon/Calderon/71834.ts
+#EXTINF:-1
+http://geotvplus.eu:2082/live/Calderon/Calderon/54358.ts 
+#EXTINF:-1
+http://geotvplus.eu:2082/live/Calderon/Calderon/55483.ts
+#EXTINF:-1
+http://us1-external-sources.iptvserver.tv/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/770.ts
+#EXTINF:-1
+http://geotvplus.eu:2082/live/Calderon/Calderon/54147.ts
+#EXTINF:-1
+http://geotvplus.eu:2082/live/Calderon/Calderon/54334.ts 
+#EXTINF:-1
+http://geotvplus.eu:2082/live/Calderon/Calderon/54335.ts
+#EXTINF:-1
+http://geotvplus.eu:2082/live/Calderon/Calderon/54351.ts 
+#EXTINF:-1
+http://geotvplus.eu:2082/live/Calderon/Calderon/55485.ts 
